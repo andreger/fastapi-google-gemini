@@ -162,7 +162,7 @@ Expected input example:
 
 ```json
 {
-  "url": "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg"
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tundra_in_Siberia.jpg/800px-Tundra_in_Siberia.jpg"
 }
 ```
 
